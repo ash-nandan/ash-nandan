@@ -8,7 +8,7 @@ I have recently graduated from Dev Academy Aotearoa, where I developed fullstack
 
 **Backend:** REST APIs, Node.js, Express, Knex, SQLite
 
-**Tools:** Git, GitHub, Vite, ESLint, Vitest
+**Tools:** Git, GitHub, Vite, Vitest
 
 **Ways Of Working:** Team collaboration, agile practices, people first development 
 
