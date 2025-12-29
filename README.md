@@ -1,6 +1,6 @@
 # Hi, I'm Ash!🤗
 I'm a software developer relatively new to tech sector, with a strong desire for problem solving, building meaningful projects and continous learning. 
-I have recently graduated from Dev Academy Aotearoa, where I developed fullstack skills and discovered that tech is truly where I belong. I'm excited to continue learning, building and growing in the ever evolving world of software development. Took me a while to get here, but I'm so glad I finally did!!
+I have recently graduated from Dev Academy Aotearoa, where I developed fullstack skills and discovered that tech is truly where I belong. I'm excited to continue learning, building and growing in the evolving world of software development. Took me a while to get here, but I'm so glad I finally did!!
 # Tech Stack ｡🇯‌🇸‌ ⚛
 **Languages:** JavaScript, TypeScript
 
