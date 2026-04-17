@@ -20,8 +20,7 @@ HardwareHub is a marketplace PC trading platform built as part of my final group
 LoopedIn is a fullstack social media style web application built as a group project. This app allows users to view and create posts, explore groups, view other user profiles, edit their own profile and upload images; simulating the core features of modern social platform.
 ## 🎮 React Arcade
 React Arcade is a small web based arcade built as my very first group project while learning about React and TypeScript. Our goal was simple; to build something fun, creative and achievable while still getting hands on experience with modern frontend tools. The arcade features three mini games, each with its own personality and mechanics. 
-# Personal Project 📚🎧☕
-**StackedPages** will be a fullstack React library application built as my first personal project. This project is inspired by my journey back to reading; reconnecting with books, learning and mental wellbeing. This project will help me practice and strengthen my fullstack React application, working with APIs and databases, structuring scalable project and writing clean and readable TypeScript.
+
 # 🖧 Let's Connect
 󠁯•󠁏󠁏 https://www.linkedin.com/in/ash-nandan/
 
