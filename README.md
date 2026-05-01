@@ -24,8 +24,6 @@ React Arcade is a small web based arcade built as my very first group project wh
 # 🖧 Let's Connect
 󠁯•󠁏󠁏 https://www.linkedin.com/in/ash-nandan/
 
-󠁯•󠁏󠁏 https://github.com/ash-nandan
-
 
 
 
