@@ -1,6 +1,7 @@
 # Hi, I'm Ash!🤗
 I'm a junior software developer relatively new to tech sector, with a strong desire for problem solving, building meaningful projects and continous learning. 
 I have recently graduated from Dev Academy Aotearoa, where I developed fullstack skills and discovered that tech is truly where I belong. I'm excited to continue learning, building and growing in the evolving world of software development. Took me a while to get here, but I'm so glad I finally did!!
+
 # Tech Stack ｡🇯‌🇸‌ ⚛
 **Languages:** JavaScript, TypeScript
 
@@ -13,6 +14,7 @@ I have recently graduated from Dev Academy Aotearoa, where I developed fullstack
 **Ways Of Working:** Team collaboration, agile practices, people first development 
 
 I loved and enjoyed my time at Dev Academy; not just for the technical growth but for learning how to collaborate, communicate effectively and build software as part of a supportive team.
+
 # 🛠️Projects
 ## ⚙️HardwareHub
 HardwareHub is a marketplace PC trading platform built as part of my final group project at Dev Academy Aotearoa. This allows users to create profiles, list hardware items, place bids, create bids, manage their accounts and more. My contributions to the group project; focusing on user profile management using both frontend and backend framework.
