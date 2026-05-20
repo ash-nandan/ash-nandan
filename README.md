@@ -22,7 +22,7 @@ LoopedIn is a fullstack social media style web application built as a group proj
 React Arcade is a small web based arcade built as my very first group project while learning about React and TypeScript. Our goal was simple; to build something fun, creative and achievable while still getting hands on experience with modern frontend tools. The arcade features three mini games, each with its own personality and mechanics. 
 
 # 🖧 Let's Connect
-󠁯•󠁏[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ash%20Nandan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ash-nandan/)
+󠁯[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ash%20Nandan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ash-nandan/)
 
 
 
