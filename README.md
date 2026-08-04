@@ -1,6 +1,11 @@
 # Hi, I'm Ash!🤗
-I'm a junior software developer relatively new to tech sector, with a strong desire for problem solving, building meaningful projects and continous learning. 
-I have recently graduated from Dev Academy Aotearoa, where I developed fullstack skills and discovered that tech is truly where I belong. I'm excited to continue learning, building and growing in the evolving world of software development. Took me a while to get here, but I'm so glad I finally did!!
+I'm a junior software developer who graduated from Dev Academy Aotearoa's (2025) Applied Software Development programme. During my time there, I developed fullstack applications using JavaScript, TypeScript, React, Express, REST APIs, Git, HTML and CSS  while learning to collaborate in agile teams and build software that solves real problems.
+
+What I enjoy most about software development is the constant opportunity to learn. Recently, I've become particularly interested in AI assisted software development and how emerging technologies can improve development workflows and create better solutions. I've been exploring tools like Codex, and networking events, and continuously learning how AI can be used responsibly alongside strong software engineering fundamentals.
+
+Before transitioning into tech, I spent six years working in hospitality, including leadership roles as a Duty Manager. While I enjoyed working with people, I realised I wanted a career that would continually challenge me and allow me to keep growing. Joining Dev Academy confirmed that software development was the right path for me. I genuinely enjoy solving problems, building projects, collaborating with others, and learning something new every day.
+
+​I intend to leverage my interpersonal skills gained from hospitality; specifically customer service, conflict resolution, communication, and a people first mindset, to continue learning in the dynamic field of software development.
 
 # Tech Stack ｡🇯‌🇸‌ ⚛
 **Languages:** JavaScript, TypeScript
