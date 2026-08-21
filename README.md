@@ -1,11 +1,15 @@
-# Hi, I'm Ash!🤗
-I'm a junior software developer who graduated from Dev Academy Aotearoa's (2025) Applied Software Development programme. During my time there, I developed fullstack applications using JavaScript, TypeScript, React, Express, REST APIs, Git, HTML and CSS  while learning to collaborate in agile teams and build software that solves real problems.
-
-What I enjoy most about software development is the constant opportunity to learn. Recently, I've become particularly interested in AI assisted software development and how emerging technologies can improve development workflows and create better solutions. I've been exploring tools like Codex, and networking events, and continuously learning how AI can be used responsibly alongside strong software engineering fundamentals.
-
-Before transitioning into tech, I spent six years working in hospitality, including leadership roles as a Duty Manager. While I enjoyed working with people, I realised I wanted a career that would continually challenge me and allow me to keep growing. Joining Dev Academy confirmed that software development was the right path for me. I genuinely enjoy solving problems, building projects, collaborating with others, and learning something new every day.
-
-​I intend to leverage my interpersonal skills gained from hospitality; specifically customer service, conflict resolution, communication, and a people first mindset, to continue learning in the dynamic field of software development.
+Hi, I'm Ash! 👩🏽‍💻
+I'm a developer and a 2025 graduate of Dev Academy Aotearoa's Applied Software Development programme. I learned to build fullstack applications using JavaScript, TypeScript, React, REST APIs, HTML, CSS and Git, while working in Agile teams and learning how important communication, feedback and collaboration are when building software.
+ 
+My path into tech wasn't a traditional one. I've been curious about technology since high school and have always enjoyed figuring out how things work. I started tinkering with phones; opening up iPhones and teaching myself to replace screens, batteries, charging ports and other components, something I still do today. Back then, I didn't think that curiosity would shape my future career. I just genuinely enjoyed understanding the technology I used.
+ 
+My career took me into hospitality, where I spent six years working with people and progressed into Duty Manager roles. During that time, I also studied automotive engineering because I've always loved cars. Learning about their mechanical side gave me another way to understand how different parts work together, diagnose problems and fix them. Looking back, there's been a common thread across my interests: I like understanding how things work, finding what's wrong and figuring out how to fix it.
+ 
+Eventually, I realised I wanted a career where I could use that curiosity while continuously learning and challenging myself. That led me to software development and Dev Academy. Coding gave me a completely different kind of problem to solve, and I discovered how much I enjoyed taking an idea, breaking it down and turning it into something that worked. Looking back, moving into software doesn't feel as random as I once thought.
+ 
+My hospitality background is something I genuinely value in tech. It taught me how to communicate with different people, listen, resolve conflict, support others and stay calm when things don't go to plan. Dev Academy built on those skills and showed me the importance of the human side of software development.
+ 
+Since graduating, I've continued strengthening my JavaScript, React and TypeScript foundations through FreeCodeCamp, AWS learning and revisiting my Dev Academy material. I've also stayed involved in Auckland's tech community through meetups, workshops and Summer of Tech. I still have plenty to learn, but that's one reason I chose this field. I enjoy learning, I take feedback seriously, and when I don't understand something, I'm willing to keep working at it until I do.
 
 # Tech Stack ｡🇯‌🇸‌ ⚛
 **Languages:** JavaScript, TypeScript
