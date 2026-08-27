@@ -25,12 +25,15 @@ Since graduating, I've continued strengthening my JavaScript, React and TypeScri
 I loved and enjoyed my time at Dev Academy; not just for the technical growth but for learning how to collaborate, communicate effectively and build software as part of a supportive team.
 
 # 🛠️Projects
-## ⚙️HardwareHub
-HardwareHub is a marketplace PC trading platform built as part of my final group project at Dev Academy Aotearoa. This allows users to create profiles, list hardware items, place bids, create bids, manage their accounts and more. My contributions to the group project; focusing on user profile management using both frontend and backend framework.
-## 𝑳𝒐𝒐𝐩𝓮𝒅𝐈𝐧 
+## ## 💰 MoneyTrail - Personal Project | In Development
+MoneyTrail is a personal finance web application I'm currently building to track where my money goes and understand my spending habits over time. The idea grew from the personal finance spreadsheet I use to track my spending, account balances and savings, and my interest in turning that system into a fullstack application of my own.
+I'm building MoneyTrail using React, TypeScript, Node.js, Express, SQL and Knex.js as a way to strengthen and apply the fullstack development skills I learned at Dev Academy. As the project develops, I plan to test it with real users and iterate on the features and user experience based on their feedback.
+## ⚙️HardwareHub - Dev Academy Final Group Project
+HardwareHub is a marketplace PC trading platform built as part of my final group project. This allows users to create profiles, list hardware items, place bids, create bids, manage their accounts and more. My contributions to the group project; focusing on user profile management using both frontend and backend framework.
+## 𝑳𝒐𝒐𝐩𝓮𝒅𝐈𝐧 - Dev Academy Group Project
 LoopedIn is a fullstack social media style web application built as a group project. This app allows users to view and create posts, explore groups, view other user profiles, edit their own profile and upload images; simulating the core features of modern social platform.
-## 🎮 React Arcade
-React Arcade is a small web based arcade built as my very first group project while learning about React and TypeScript. Our goal was simple; to build something fun, creative and achievable while still getting hands on experience with modern frontend tools. The arcade features three mini games, each with its own personality and mechanics. 
+## 🎮 React Arcade - Dev Academy First Group Project
+React Arcade is a small web based arcade built as my very first group project while learning about React and TypeScript. Our goal was simple; to build something fun, creative and achievable while still getting hands on experience with modern frontend tools. The arcade features three mini games, each with its own personality and mechanics. I proposed combining our individual games into one arcade, giving each team member ownership of their own game while contributing to a shared project.
 
 # 🖧 Let's Connect
 󠁯[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ash%20Nandan-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/ash-nandan/)
